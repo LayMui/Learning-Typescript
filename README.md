@@ -1,4 +1,6 @@
+## Learning Typescript
 ## To get started
+
 Run 
 ```
 npm i
@@ -6,10 +8,8 @@ tsc -w
 npm start 
 ```
 
-# To run typescript compilation in watch mode
-# to rebuild the JS 
-tsc -w 
 
+tsc -w :To run typescript compilation in watch mode to rebuild the JS 
 
 ### Using decorators for validation
 
