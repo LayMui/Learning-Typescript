@@ -1,22 +1,16 @@
-## Learning Typescript
-## To get started
+# Class Validator
+## Prerequisites
 
-Run 
+To use this project, you'll need:
+- Node.js, a Long-Term Support (LTS) release version 10 or later - [download](https://nodejs.org/en/)
+- Java Runtime Environment (JRE) or a Java Development Kit (JDK) version 8 or later - [download](https://adoptopenjdk.net/)
+- Chrome web browser - [download](https://www.google.co.uk/chrome/)
+https://github.com/typestack/class-validator
+
+## Usage
+
 ```
-npm i
-tsc -w 
-npm start 
+npm i                # installs the node modules
+npm start
 ```
 
-
-tsc -w :To run typescript compilation in watch mode to rebuild the JS 
-
-### Using decorators for validation
-
-Decorators are used for meta programming to add extra configuration extra logic
-
-https://github.com/typestack/class-validator#validation-errors
-
-https://docs.nestjs.com/techniques/validation
-
-https://www.typescriptlang.org/docs/handbook/decorators.html
