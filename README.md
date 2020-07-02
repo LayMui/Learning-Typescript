@@ -4,7 +4,7 @@
 Run 
 ```
 npm i
-tsc -w 
+npm run build
 npm start 
 ```
 
