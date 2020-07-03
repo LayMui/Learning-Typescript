@@ -10,6 +10,12 @@ To use this project, you'll need:
 To avoid using credit card to open a googlemap API account
 https://openlayers.org/en/latest/doc/quickstart.html
 
+Google Maps Pricing: https://cloud.google.com/maps-platform/pricing/sheet/
+
+Google Geocoding API: https://developers.google.com/maps/documentation/geocoding/start
+
+Google Maps JS SDK: https://developers.google.com/maps/documentation/javascript/tutorial
+
 ## Usage
 
 ```
